@@ -14,12 +14,12 @@ const maxPointsShown = 30;
 let startSequence = false;
 
 function preload() {
-    asterion =  loadJSON('zuest/embeddings.json');
-    centers = loadJSON('zuest/clusters.json');
-    space = loadJSON('zuest/extreme_values.json');
-    books = loadJSON('zuest/embeddings_books.json');
-    shelves = loadJSON('zuest/embeddings_cat.json');
-    reads = loadJSON('zuest/embeddings_read.json')
+    asterion =  loadJSON('embeddings.json');
+    centers = loadJSON('clusters.json');
+    space = loadJSON('extreme_values.json');
+    books = loadJSON('embeddings_books.json');
+    shelves = loadJSON('embeddings_cat.json');
+    reads = loadJSON('embeddings_read.json')
     // font = loadFont('assets/Minimal-Mono-Regular.otf');
 }
 
