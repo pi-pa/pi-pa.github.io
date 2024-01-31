@@ -362,4 +362,26 @@
   .u-section-6 .u-text-5 {
     margin-right: 0;
   }
+}.u-section-7 .u-sheet-1 {
+  min-height: 195px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 0 20px 0 0;
+}
+
+.u-section-7 .u-text-2 {
+  margin-left: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 0;
+  }
 }
