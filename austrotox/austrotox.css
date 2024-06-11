@@ -3,10 +3,27 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin-bottom: 60px;
+  margin-bottom: 0;
+  margin-top: 20px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  margin: -28px 35px 60px auto;
+  padding: 0 15px 0 13px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
 }
