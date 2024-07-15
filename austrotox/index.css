@@ -9,16 +9,18 @@
 
 .u-section-1 .u-btn-1 {
   background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-btn-2 {
   background-image: none;
+  margin-top: 0;
   padding: 0;
 }
 
 .u-section-1 .u-btn-3 {
   background-image: none;
-  margin: -108px 100px 60px auto;
+  margin: -108px 100px 70px auto;
   padding: 0 15px 0 13px;
 }
 
@@ -40,10 +42,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-btn-1 {
-    padding: 0;
-  }
-
   .u-section-1 .u-btn-3 {
     margin-top: -250px;
     margin-right: 20px;
