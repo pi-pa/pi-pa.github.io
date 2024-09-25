@@ -214,7 +214,6 @@
   .u-section-1 .u-image-2 {
     height: 62px;
     margin-top: -321px;
-    inset: auto;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -328,12 +327,12 @@
   }
 
   .u-section-2 .u-image-1 {
-    margin-top: 208px;
-    margin-right: -592px;
+    margin-top: 195px;
+    margin-right: -802px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: -655px;
+    margin-top: -642px;
   }
 }
 
@@ -486,6 +485,11 @@
 @media (max-width: 767px) {
   .u-section-4 .u-text-1 {
     margin-right: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: -159px;
+    margin-bottom: -240px;
   }
 }
 
