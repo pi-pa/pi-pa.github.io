@@ -512,6 +512,16 @@
     margin-right: -425px;
     margin-bottom: -236px;
   }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 675px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-bottom: 50px;
+  }
 }.u-section-5 .u-sheet-1 {
   min-height: 238px;
 }
