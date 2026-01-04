@@ -46449,7 +46449,11 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-sheet-1 {
   min-height: 100px;
 }
-
+@media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 59px;
+  }
+}
 
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {

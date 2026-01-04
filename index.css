@@ -263,7 +263,6 @@
   }
 } .u-section-2 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -276,6 +275,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 100px;
   }
@@ -999,7 +1002,6 @@
   }
 } .u-section-5 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -1012,6 +1014,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-5 {
+    background-position: 50% 50%;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 100px;
   }
@@ -1081,7 +1087,6 @@
   }
 } .u-section-7 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -1094,6 +1099,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-7 {
+    background-position: 50% 50%;
+  }
+
   .u-section-7 .u-sheet-1 {
     min-height: 99px;
   }
@@ -1283,7 +1292,6 @@
   }
 } .u-section-9 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-9 .u-sheet-1 {
@@ -1296,6 +1304,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-9 {
+    background-position: 50% 50%;
+  }
+
   .u-section-9 .u-sheet-1 {
     min-height: 100px;
   }
@@ -1459,7 +1471,6 @@
   }
 } .u-section-11 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-11 .u-sheet-1 {
@@ -1472,6 +1483,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-11 {
+    background-position: 50% 50%;
+  }
+
   .u-section-11 .u-sheet-1 {
     min-height: 100px;
   }
@@ -1643,7 +1658,6 @@
   }
 } .u-section-13 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-13 .u-sheet-1 {
@@ -1656,6 +1670,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-13 {
+    background-position: 50% 50%;
+  }
+
   .u-section-13 .u-sheet-1 {
     min-height: 86px;
   }
@@ -1972,7 +1990,6 @@
   }
 } .u-section-15 {
   background-image: url("images/Screenshot2023-05-05at21.01.12.png");
-  background-position: 50% 50%;
 }
 
 .u-section-15 .u-sheet-1 {
@@ -1985,6 +2002,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-15 {
+    background-position: 50% 50%;
+  }
+
   .u-section-15 .u-sheet-1 {
     min-height: 86px;
   }
