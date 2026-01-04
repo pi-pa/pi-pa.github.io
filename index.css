@@ -424,10 +424,13 @@
   bottom: 10px;
 }
 
+.u-section-3 .u-gallery-inner-1 {
+  --gap: 0px;
+}
+
 .u-section-3 .u-carousel-item-1 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-1 {
@@ -438,7 +441,6 @@
 .u-section-3 .u-carousel-item-2 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-2 {
@@ -449,7 +451,6 @@
 .u-section-3 .u-carousel-item-3 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-3 {
@@ -460,7 +461,6 @@
 .u-section-3 .u-carousel-item-4 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-4 {
@@ -471,7 +471,6 @@
 .u-section-3 .u-carousel-item-5 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-5 {
@@ -482,7 +481,6 @@
 .u-section-3 .u-carousel-item-6 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-6 {
@@ -547,37 +545,31 @@
   .u-section-3 .u-carousel-item-1 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-item-2 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-item-3 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-item-4 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-item-5 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-item-6 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-3 .u-carousel-control-1 {
